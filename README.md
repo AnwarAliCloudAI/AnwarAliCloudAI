@@ -4,14 +4,17 @@
 
 Cloud Computing student and former Finance Manager building hands-on expertise in Microsoft 365, Azure, endpoint management, cloud security, automation, and responsible AI through real-world implementation projects.
 
-## Current Professional Development
+## Professional Development
 
+### Currently Pursuing
 - MD-102 — Microsoft 365 Endpoint Administrator
 - AZ-900 — Microsoft Azure Fundamentals
-- AZ-104 — Microsoft Azure Administrator
-- AWS foundational study and multi-cloud comparison
 
-## Featured Work
+### Next
+- AZ-104 — Microsoft Azure Administrator
+- AWS Cloud Foundations
+
+## Featured Projects
 
 - [Moltrix Cloud & AI Transformation Program](https://github.com/AnwarAliCloudAI/moltrix-cloud-ai-roadmap)
 - [Moltrix Secure Endpoint Management](https://github.com/AnwarAliCloudAI/moltrix-secure-endpoint-management)
