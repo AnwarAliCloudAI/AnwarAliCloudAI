@@ -2,7 +2,7 @@
 
 # Anwar Ali
 
-Finance professional building practical capability in endpoint administration, Cloud infrastructure, security, governance, automation, and responsible Artificial Intelligence.
+Cloud Computing student and former Finance Manager building hands-on expertise in Microsoft 365, Azure, endpoint management, cloud security, automation, and responsible Artificial Intelligence through real-world implementation projects.
 
 ## Current Professional Development
 
