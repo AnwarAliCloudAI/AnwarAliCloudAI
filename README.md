@@ -1,5 +1,3 @@
-![Moltrix Cloud and AI Transformation Program](<ChatGPT Image Jul 21, 2026 at 12_26_21 AM.png>)
-
 Anwar Ali
 
 Finance and accounting professional building hands-on cloud, Microsoft 365, Azure, Applied AI, FinOps, and business technology projects.
